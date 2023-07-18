@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <link rel="stylesheet" href="style.css">
     <title>Robot Controller</title>
-    <link rel="icon" type="image/png" href="robot-assistant.png"/>
+    <link rel="icon" type="image/png" href="imgs/robot-assistant.png"/>
 </head>
 <body>
         <div class="top">
